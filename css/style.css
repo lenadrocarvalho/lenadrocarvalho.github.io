@@ -812,7 +812,7 @@ h1, h2, h3 {
 
   .about-grid { grid-template-columns: 1.3fr 1fr; gap: var(--space-8); align-items: start; }
 
-  .skills-grid { gap: var(--space-8) var(--space-8); }
+  .skills-grid { grid-template-columns: repeat(3, 1fr); gap: var(--space-7) var(--space-7); }
 
   .projects-grid { grid-template-columns: repeat(3, 1fr); }
 
