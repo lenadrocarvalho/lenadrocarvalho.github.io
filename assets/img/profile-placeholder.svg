@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" role="img" aria-label="Espaço reservado para a foto">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#E4E0D8"/>
+      <stop offset="1" stop-color="#CFC9BE"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="500" fill="url(#g)"/>
+  <!-- silhueta discreta -->
+  <circle cx="200" cy="195" r="72" fill="#0F4C5C" opacity="0.14"/>
+  <path d="M70 500c0-95 58-160 130-160s130 65 130 160z" fill="#0F4C5C" opacity="0.14"/>
+  <text x="200" y="215" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="56" font-style="italic" fill="#0F4C5C" opacity="0.85">LC</text>
+</svg>
